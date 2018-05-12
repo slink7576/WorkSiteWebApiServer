@@ -1,0 +1,9 @@
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\AutoMapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\Ninject.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\AutoMapper.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\bin\Debug\Ninject.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\obj\Debug\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\obj\Debug\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

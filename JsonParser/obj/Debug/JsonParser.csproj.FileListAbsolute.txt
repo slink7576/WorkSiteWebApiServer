@@ -1,0 +1,10 @@
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\JsonParser.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\JsonParser.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\Newtonsoft.Json.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\AutoMapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\bin\Debug\AutoMapper.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\obj\Debug\JsonParser.csprojResolveAssemblyReference.cache
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\obj\Debug\JsonParser.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\JsonParser\obj\Debug\JsonParser.pdb

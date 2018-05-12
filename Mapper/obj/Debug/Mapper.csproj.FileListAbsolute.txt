@@ -1,0 +1,9 @@
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\Mapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\Mapper.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\AutoMapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\bin\Debug\AutoMapper.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\obj\Debug\Mapper.csprojResolveAssemblyReference.cache
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\obj\Debug\Mapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\Mapper\obj\Debug\Mapper.pdb

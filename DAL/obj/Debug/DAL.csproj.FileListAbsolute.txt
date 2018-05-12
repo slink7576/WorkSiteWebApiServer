@@ -1,0 +1,10 @@
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\DAL.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\DAL.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\DAL.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\EntityFramework.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\EntityFramework.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\obj\Debug\DAL.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,119 @@
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\obj\Debug\WebApiService.csprojResolveAssemblyReference.cache
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\csc.exe
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\csc.exe.config
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\csc.rsp
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\csi.exe
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\csi.rsp
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.AppContext.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\vbc.exe
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\vbc.exe.config
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\vbc.rsp
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\VBCSCompiler.exe
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\WebApiService.dll.config
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\WebApiService.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\WebApiService.pdb
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\Newtonsoft.Json.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Net.Http.Formatting.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.WebHost.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\Newtonsoft.Json.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Net.Http.Formatting.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.WebHost.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\ru\System.Web.Http.resources.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\obj\Debug\WebApiService.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\obj\Debug\WebApiService.pdb
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Cors.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.Cors.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\WebApiService\WebApiService\bin\System.Web.Http.Cors.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\obj\Debug\WebApiService.csprojResolveAssemblyReference.cache
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\csc.exe
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\csc.exe.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\csc.rsp
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\csi.exe
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\csi.rsp
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.AppContext.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.Collections.Immutable.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.IO.FileSystem.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\System.Reflection.Metadata.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\vbc.exe
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\vbc.exe.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\vbc.rsp
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\VBCSCompiler.exe
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\roslyn\VBCSCompiler.exe.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\WebApiService.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\WebApiService.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\WebApiService.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\BusinessLogicLayer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\DataAccessLayer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\EntityFramework.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\EntityFramework.SqlServer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Newtonsoft.Json.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Ninject.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\NinjectModule.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Net.Http.Formatting.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Cors.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.Cors.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.WebHost.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\UnitOfWork.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\AutoMapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\BusinessLogicLayer.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\DataAccessLayer.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\DataAccessLayer.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\NinjectModule.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\NinjectModule.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\EntityFramework.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\EntityFramework.SqlServer.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Ninject.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Net.Http.Formatting.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.Cors.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\Newtonsoft.Json.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\System.Web.Http.WebHost.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\UnitOfWork.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\UnitOfWork.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\AutoMapper.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\ru\System.Web.Http.resources.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\obj\Debug\WebApiService.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\obj\Debug\WebApiService.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\JsonParser.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\WebApiService\bin\JsonParser.pdb

@@ -1,0 +1,17 @@
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\Entities.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\Ninject.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\UnitOfWork.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\Entities.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\UnitOfWork.pdb
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\UnitOfWork.dll.config
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\Ninject.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\bin\Debug\ru\EntityFramework.resources.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\2kurs2sem\Архитектура\kursach\WebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
